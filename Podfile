@@ -1,5 +1,5 @@
 # Uncomment the next line to define a global platform for your project
-# platform :ios, '9.0'
+platform :ios, '11.0'
 flutter_application_path = 'blip-chat-sdk-2'
 load File.join(flutter_application_path, '.ios', 'Flutter', 'podhelper.rb')
 
