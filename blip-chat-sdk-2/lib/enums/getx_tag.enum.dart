@@ -1,0 +1,4 @@
+enum GetxTag {
+  clientController,
+  chatController,
+}

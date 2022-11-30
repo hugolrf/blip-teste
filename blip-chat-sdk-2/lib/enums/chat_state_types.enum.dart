@@ -1,0 +1,4 @@
+enum ChatStateTypes {
+  composing,
+  paused,
+}

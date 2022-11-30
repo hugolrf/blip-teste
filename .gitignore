@@ -1,0 +1,10 @@
+
+Pods/
+
+Podfile.lock
+
+blip-chat-sdk-2/.vscode/
+
+blip-sdk-ios.xcodeproj/xcuserdata/
+
+blip-sdk-ios.xcworkspace/xcuserdata/
