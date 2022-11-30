@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
     :tag => spec.version.to_s 
   }
   spec.summary      = 'Blip SDK iOS'
-  spec.source_files = '**/*.swift', '*.swift', 'blip-chat-sdk-2/**/*.*'
+  spec.source_files = '**/*.swift', '*.swift', 'blip-chat-sdk-2/**/*'
   spec.swift_versions = '5.0'
   spec.ios.deployment_target = '11.0'
  
